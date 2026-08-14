@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>O Patinho Feio</title>    
 </head>
 <body>
@@ -70,4 +71,4 @@ Vale lembrar que o pato é um animal "híbrido", que vive tanto na água quanto 
     p {
         margin-bottom: 15px;
     }
-</html>
+</style>

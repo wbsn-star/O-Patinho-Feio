@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Patinho Feio</title>    
+</head>
+<body>
+    <img src="https://cdn.culturagenial.com/imagens/patinho-feio-no-lago.jpg?class=article" alt="Patinho Feio no Lago">
+    <h1>Essa é uma Breve Historia do patinho feio!</h1>
+    <h2>Divita-se!</h2>
+    <p>Era uma manhã de verão, e uma pata havia botado cinco ovos. Ela estava aguardando impaciente a chegada de seus filhotinhos.
+Assim, quando o primeiro ovo se partiu, mamãe pata ficou muito contente. Logo os outros patinhos também começaram a nascer. Mas havia um ovo que demorou para se quebrar, deixando-a ansiosa.
+
+Passado algum tempo, o último filhote finalmente conseguiu sair do ovo. Mas quando mamãe pata o viu, ela não ficou muito satisfeita e exclamou:
+
+<p>- Esse patinho é muito diferente, muito feio. Não pode ser meu filho!</p>
+
+<p>- Ah! Alguém te pregou uma peça. Disse a galinha que morava ali por perto.</p>
+
+O tempo foi passando e o patinho feio foi ficando cada vez mais feio, cada vez mais diferente de seus irmãos e cada vez mais isolado. Os outros animais zombavam dele, o que o deixava entristecido e angustiado.
+
+Então, quando o inverno chegou, o patinho resolveu partir. Ele andou bastante e encontrou uma casa, assim, resolveu entrar pensando que lá talvez alguém gostasse dele. Foi o que aconteceu. Havia um homem que o acolheu, assim, o patinho passou esse tempo muito bem.
+
+Mas, esse homem tinha também um gato, que um dia levou o pato para fora de casa, deixando-o sozinho e triste novamente.
+
+O patinho saiu caminhando e depois de muito andar encontrou um lugar muito bonito, com um lago. O pato viu um cantinho aconchegante e foi até lá descansar. Nesse momento, algumas crianças que estavam por perto, perceberam a chegada de uma nova figura. Elas ficaram encantadas e disseram:
+
+<p>- Vejam, temos um visitante!</p>
+
+<p>- Nossa! E como é lindo!</p>
+
+O patinho não entendeu de quem as crianças estavam falando, mas quando ele se aproximou do lago e viu seu reflexo na água, avistou um maravilhoso cisne. Então, ao olhar para o lado, ele se deu conta de que outros cisnes também moravam ali.
+
+Dessa forma, o patinho descobriu que na verdade, ele era um cisne. Desde então, ele passou a viver entre seus iguais e não ficou mais angustiado.
+
+<P>Esse conto foi escrito pelo dinamarquês Hans Christian Andersen em 1843 e transformou-sem em filme da Disney em 1939.
+
+A história nos fala sobre aceitação e pertencimento.O patinho, depois de ser muito humilhado e experimentar sentimentos de angústia, desamparo e baixa auto estima, consegue se dar conta de seu valor. Isso porque ele descobre que, na verdade, estava inserido em um ambiente que não era o seu por natureza, pois ele era um cisne.
+
+Em alguma medida, a narrativa conta sobre emoções presentes no universo infantil. Muitas vezes, as crianças sentem-se deslocadas entre os amigos e mesmo na própria família. Tais emoções, se não tratadas, podem ser levadas para a vida adulta também.
+
+Então, a história do patinho feio nos mostra uma busca interior em direção a um resgate e descoberta de nossa potência como seres humanos, assumindo toda a nossa "beleza" e auto-amor escondidos.
+
+É um conto que explora também a questão do "diferente". Pois, o patinho não era nem um pouco parecido com seus irmão, não se adequando e vivendo sempre isolado. Mas, à medida que sai em busca de sua totalidade, ele se depara com sua força na diferença, afinal, todos nós somos diversos uns dos outros.
+
+Vale lembrar que o pato é um animal "híbrido", que vive tanto na água quanto na terra, simbolizando assim o diálogo entre o mundo do consciente e do inconsciente.</p>
+</body>
+</html>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        background-color: #f9f9f9;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 20px;
+    }
+
+    h1, h2 {
+        text-align: center;
+        color: #333;
+    }
+
+    p {
+        margin-bottom: 15px;
+    }

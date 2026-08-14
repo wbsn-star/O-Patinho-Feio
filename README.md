@@ -45,6 +45,4 @@ Então, a história do patinho feio nos mostra uma busca interior em direção a
 É um conto que explora também a questão do "diferente". Pois, o patinho não era nem um pouco parecido com seus irmão, não se adequando e vivendo sempre isolado. Mas, à medida que sai em busca de sua totalidade, ele se depara com sua força na diferença, afinal, todos nós somos diversos uns dos outros.
 
 Vale lembrar que o pato é um animal "híbrido", que vive tanto na água quanto na terra, simbolizando assim o diálogo entre o mundo do consciente e do inconsciente.</p>
-</body>
-        margin-bottom: 15px;
-    }
+</body>      

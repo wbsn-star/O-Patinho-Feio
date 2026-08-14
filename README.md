@@ -46,7 +46,6 @@ Então, a história do patinho feio nos mostra uma busca interior em direção a
 
 Vale lembrar que o pato é um animal "híbrido", que vive tanto na água quanto na terra, simbolizando assim o diálogo entre o mundo do consciente e do inconsciente.</p>
 </body>
-</html>
 
 <style>
     body {
@@ -71,3 +70,4 @@ Vale lembrar que o pato é um animal "híbrido", que vive tanto na água quanto 
     p {
         margin-bottom: 15px;
     }
+</html>

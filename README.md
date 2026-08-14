@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>O Patinho Feio</title>    
+     O Patinho Feio 
 </head>
 <body>
     <img src="https://cdn.culturagenial.com/imagens/patinho-feio-no-lago.jpg?class=article" alt="Patinho Feio no Lago">
@@ -47,28 +46,5 @@ Então, a história do patinho feio nos mostra uma busca interior em direção a
 
 Vale lembrar que o pato é um animal "híbrido", que vive tanto na água quanto na terra, simbolizando assim o diálogo entre o mundo do consciente e do inconsciente.</p>
 </body>
-
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 20px;
-        background-color: #f9f9f9;
-    }
-
-    img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 0 auto 20px;
-    }
-
-    h1, h2 {
-        text-align: center;
-        color: #333;
-    }
-
-    p {
         margin-bottom: 15px;
     }
-</style>

@@ -37,8 +37,7 @@ Dessa forma, o patinho descobriu que na verdade, ele era um cisne. Desde então,
 <P>Esse conto foi escrito pelo dinamarquês Hans Christian Andersen em 1843 e transformou-sem em filme da Disney em 1939.
 
 A história nos fala sobre aceitação e pertencimento.O patinho, depois de ser muito humilhado e experimentar sentimentos de angústia, desamparo e baixa auto estima, consegue se dar conta de seu valor. Isso porque ele descobre que, na verdade, estava inserido em um ambiente que não era o seu por natureza, pois ele era um cisne.
-
-Em alguma medida, a narrativa conta sobre emoções presentes no universo infantil. Muitas vezes, as crianças sentem-se deslocadas entre os amigos e mesmo na própria família. Tais emoções, se não tratadas, podem ser levadas para a vida adulta também.
+Em alguma medida, a narrativa conta sobre emoções presentes no <a href="https://www.baixelivros.com.br/literatura-infantil#google_vignette">universo infantil</a>. Muitas vezes, as crianças sentem-se deslocadas entre os amigos e mesmo na própria família. Tais emoções, se não tratadas, podem ser levadas para a vida adulta também.
 
 Então, a história do patinho feio nos mostra uma busca interior em direção a um resgate e descoberta de nossa potência como seres humanos, assumindo toda a nossa "beleza" e auto-amor escondidos.
 
